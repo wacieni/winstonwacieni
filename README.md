@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @winstonwacieni
-- 👀 I’m interested in ...Javascript
-- 🌱 I’m currently learning ...js fundamentals & frontend web development
-- 💞️ I’m looking to collaborate on ...Related web projects
-- 📫 How to reach me ...Twiiter @winstonwacieni
-
-<!---
-winstonwacieni/winstonwacieni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/captainPriceJr"><img src="https://api.daily.dev/devcards/cf5b51382edd411ba6a0dbc77e6d528a.png?r=oml" width="400" alt="winston wacieni's Dev Card"/></a>
